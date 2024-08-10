@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: tserve
+Version: 1.0
+Requires-Dist: fastapi
+Requires-Dist: transformers
+Requires-Dist: uvicorn
+Requires-Dist: torch
