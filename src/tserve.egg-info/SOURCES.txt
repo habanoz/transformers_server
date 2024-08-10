@@ -1,8 +1,0 @@
-pyproject.toml
-src/tserve/__init__.py
-src/tserve/main.py
-src/tserve.egg-info/PKG-INFO
-src/tserve.egg-info/SOURCES.txt
-src/tserve.egg-info/dependency_links.txt
-src/tserve.egg-info/requires.txt
-src/tserve.egg-info/top_level.txt
